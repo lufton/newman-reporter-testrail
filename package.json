@@ -1,5 +1,5 @@
 {
-  "name": "newman-reporter-testrail",
+  "name": "newman-reporter-oldtestrail",
   "version": "1.0.45",
   "description": "TestRail reporter for Newman",
   "main": "lib/index.js",
@@ -33,10 +33,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/billylam/newman-reporter-testrail.git"
+    "url": "git+https://github.com/lufton/newman-reporter-testrail.git"
   },
   "bugs": {
-    "url": "https://github.com/billylam/newman-reporter-testrail/issues"
+    "url": "https://github.com/lufton/newman-reporter-testrail/issues"
   },
-  "homepage": "https://github.com/billylam/newman-reporter-testrail#readme"
+  "homepage": "https://github.com/lufton/newman-reporter-testrail#readme"
 }
