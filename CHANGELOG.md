@@ -1,3 +1,11 @@
+### 1.0.49 (2021-04-29)
+* Merge PR to propagate test ids from parent name to child assertions when title matching is true.
+### 1.0.48 (2021-03-22)
+* Fix bug (closing runs due to falsiness check).
+### 1.0.47 (2021-03-18)
+* Merge PR for close run option.
+### 1.0.46 (2021-02-23)
+* Merge PRs for beta header, matching via request name.
 ### 1.0.45 (2021-02-01)
 * Always add test case name in comments.
 ### 1.0.44 (2021-01-06)
